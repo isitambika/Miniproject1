@@ -1,0 +1,13 @@
+streamlit>=1.42,<2
+langchain-core>=0.3,<2
+langchain-openai>=0.3,<2
+langchain-anthropic>=0.3,<2
+langchain-google-genai>=2,<5
+langchain-groq>=0.2,<2
+langchain-mistralai>=0.2,<2
+requests>=2.32,<3
+pydantic>=2,<3
+python-dotenv>=1,<2
+PyMuPDF>=1.25,<2
+pandas>=2.2,<4
+plotly>=6,<7

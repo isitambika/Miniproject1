@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+rfp_evaluations.db
+.streamlit/secrets.toml
